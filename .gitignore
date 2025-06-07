@@ -31,3 +31,6 @@
 
 # Ignore master key for decrypting credentials and more.
 /api/config/master.key
+
+# Add .DS_Store to the ignore list
+.DS_Store
